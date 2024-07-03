@@ -1,5 +1,11 @@
 {
-  "name": "majestic-motion",
+  "name": "my-profile",
+  "displayName": "My Profile - Ndamulelo Nemakhavhani",
+  "description": "Demo profile site built with Astro",
+  "author": {
+    "name": "Ndamulelo Nemakhavhani",
+    "email": "endeesa@yahoo.com"
+  },
   "type": "module",
   "version": "0.0.1",
   "scripts": {
